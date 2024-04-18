@@ -156,7 +156,7 @@ print(confusion_matrix(y_test,predictions))
 print(classification_report(y_test,predictions))
 ```
 
-<H3>Output:</H3>
+### Output:
 ![image](https://github.com/harini1006/Ex-4-NN/assets/113497405/5d44ee26-467a-4c25-a203-f0dada27a904)
 
 
